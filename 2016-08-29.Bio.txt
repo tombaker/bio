@@ -1,0 +1,18 @@
+Thomas Baker is an independent Semantic Web consultant currently helping FAO
+build the Global Agricultural Concept Scheme (GACS).  His background is in
+social sciences, with a PhD in Anthropology at Stanford University (1989)
+followed by work at a socio-economic research institute in Italy.  Since 1993,
+his wife's relocations have taken their family from New York to Bonn, Bangkok,
+Berlin, Washington, and back to Bonn, where he currently resides.  Drawn to the
+Internet since his time on The WELL, a Bay-area virtual community, he switched
+fields, via a masters in library science at Rutgers University, to work at the
+German National Research Center for Informatics (GMD).  He has worked at
+Goettingen State Library and taught at the Asian Institute of Technology
+(Bangkok) and Sungkyunkwan University (Seoul).  Long a member of the DCMI
+Directorate, he has consulted on numerous projects, notably related to
+professional education (LD4PE Project) and agricultural semantics (AGROVOC and
+GACS).  He co-chaired the W3C working group that published Simple Knowledge
+Organization System (SKOS), the technical basis for GACS.  An ardent polyglot,
+Tom is currently learning Ruby.  Viewing RDF as the language of data, he
+advocates for semantic approaches that are multilingually inclusive and
+sustainably simple.

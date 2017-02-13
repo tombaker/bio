@@ -1,0 +1,9 @@
+Thomas Baker is an independent Semantic Web consultant currently helping
+to build the Global Agricultural Concept Scheme (GACS).  His background
+is in social sciences, with a PhD at Stanford University.  He has taught
+at AIT in Bangkok and Sungkyunkwan University in Seoul, and he has
+worked in Berlin, Washington, and Bonn, where he currently resides.  He
+co-chaired the W3C working group that published Simple Knowledge
+Organization System (SKOS), the technical basis for GACS, and has served
+for fifteen years in the Directorate of the Dublin Core Metadata
+Initiative.

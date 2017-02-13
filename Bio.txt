@@ -1,26 +1,8 @@
-Thomas Baker is an Associate Professor at Sungkyunkwan University, Seoul,
-Korea. He also works as CIO of the Dublin Core Metadata Initiative, where he
-co-chairs the Technical Board and Usage Committee, and as a consultant in
-Semantic Web projects, notably LD4PE (about professional education about Linked
-Data) and GACS, a joint initiative of the Food and Agricultural Organization of
-the UN, CAB International, and the USDA National Agricultural Library to create
-a Global Agricultural Concept Scheme.  He has served as chair of the W3C
-Semantic Web Deployment Working Group, W3C Library Linked Data Incubator Group,
-and as a member of the W3C Semantic Web Coordination Group (currently the W3C
-Data Activity Coordination Group).  He has worked at the Goettingen State
-Library (Germany), Fraunhofer Society, German National Research Center for
-Informatics (GMD), and the Asian Institute of Technology in Bangkok.
-
-Thomas Baker is an Associate Professor at Sungkyunkwan University, Seoul,
-Korea. He also works as CIO of the Dublin Core Metadata Initiative, where he
-co-chairs the Technical Board and Usage Committee, and as a consultant in
-Semantic Web projects, notably LD4PE (about professional education about Linked
-Data) and GACS, a joint initiative of the Food and Agricultural Organization of
-the UN, CAB International, and the USDA National Agricultural Library to create
-a Global Agricultural Concept Scheme.  He has served as chair of the W3C
-Semantic Web Deployment Working Group, W3C Library Linked Data Incubator Group,
-and as a member of the W3C Semantic Web Coordination Group (currently the W3C
-Data Activity Coordination Group).  He has worked at the Goettingen State
-Library (Germany), Fraunhofer Society, German National Research Center for
-Informatics (GMD), and the Asian Institute of Technology in Bangkok.
-
+Thomas Baker is an independent Semantic Web consultant currently helping to
+build the Global Agricultural Concept Scheme (GACS).  His background is in
+social sciences, with a PhD at Stanford University.  He has taught at the Asian
+Institute of Technology in Bangkok and Sungkyunkwan University in Seoul, and he
+has worked in Berlin, Washington, and Bonn, where he currently resides.  He has
+served in the Directorate of the Dublin Core Metadata Initiative for fifteen
+years and co-chaired the W3C working group that published Simple Knowledge
+Organization System (SKOS), the technical basis for GACS.
